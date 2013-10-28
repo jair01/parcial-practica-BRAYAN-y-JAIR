@@ -4133,3 +4133,15 @@ tex.setText("");
 }
 
 //Subido por Brayan//
+
+public class profesor {
+      
+    public String nombre;
+    public materia materia=new materia();
+}
+
+public class materia {
+      public String horario,nombrem;
+     public profesor profe;
+}
+//subido por jair//
