@@ -257,6 +257,5 @@ parcial-practico-BRAYAN-y-JAIR
 SUBIDO POR JAIR
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-Parte de la clase Ventana:
 
 
