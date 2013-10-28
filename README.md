@@ -266,7 +266,7 @@ Parte de la clase Ventana:
 
 /**
  *
- * @author Cruz Arevalo
+ * @author Brayan Gonzalez
  */
 public class ventana extends javax.swing.JFrame {
 
